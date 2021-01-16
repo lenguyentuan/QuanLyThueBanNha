@@ -10,31 +10,37 @@ using System.Windows.Forms;
 
 namespace QuanLyThueNha
 {
-    public partial class User : Form
+  public partial class User : Form
+  {
+    public User()
     {
-        public User()
-        {
-            InitializeComponent();
-        }
-
-        private void textBox31_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox24_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label48_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox12_TextChanged(object sender, EventArgs e)
-        {
-
-        }
+      InitializeComponent();
     }
+
+    private void textBox31_TextChanged(object sender, EventArgs e)
+    {
+
+    }
+
+    private void textBox24_TextChanged(object sender, EventArgs e)
+    {
+
+    }
+
+    private void label48_Click(object sender, EventArgs e)
+    {
+
+    }
+
+    private void textBox12_TextChanged(object sender, EventArgs e)
+    {
+
+    }
+
+    // close form
+    private void User_FormClosing(object sender, FormClosingEventArgs e)
+    {
+      Application.Exit();
+    }
+  }
 }

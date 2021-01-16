@@ -140,6 +140,13 @@ CREATE TABLE HopDong
 )
 GO
 
+CREATE TABLE TaiKhoan(
+	UserName VARCHAR(40) PRIMARY KEY,
+	MatKhau CHAR(40),
+	UserRole TINYINT DEFAULT(0) -- role = 1 là Admin
+)
+GO	
+
 ------------------------------
 
 ALTER TABLE BaiDangBan ADD FOREIGN KEY (MaNha) REFERENCES Nha (MaNha)
@@ -172,4 +179,3 @@ GO
 ALTER TABLE NhanXet ADD FOREIGN KEY (MaKH) REFERENCES KhachHang (MaKH)
 ALTER TABLE HopDong ADD FOREIGN KEY (MaKH) REFERENCES KhachHang (MaKH)
 GO
-

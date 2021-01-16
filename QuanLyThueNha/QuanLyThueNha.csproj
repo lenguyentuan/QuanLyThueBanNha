@@ -64,6 +64,7 @@
     <Compile Include="ChiTietXemNha.Designer.cs">
       <DependentUpon>ChiTietXemNha.cs</DependentUpon>
     </Compile>
+    <Compile Include="DAL\DataProvider.cs" />
     <Compile Include="Dang ky.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -10,41 +10,46 @@ using System.Windows.Forms;
 
 namespace QuanLyThueNha
 {
-    public partial class Admin : Form
+  public partial class Admin : Form
+  {
+    public Admin()
     {
-        public Admin()
-        {
-            InitializeComponent();
-        }
-
-        private void tabControl1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void tabPage4_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void tabPage3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox24_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label48_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox31_TextChanged(object sender, EventArgs e)
-        {
-
-        }
+      InitializeComponent();
     }
+
+    private void tabControl1_SelectedIndexChanged(object sender, EventArgs e)
+    {
+
+    }
+
+    private void tabPage4_Click(object sender, EventArgs e)
+    {
+
+    }
+
+    private void tabPage3_Click(object sender, EventArgs e)
+    {
+
+    }
+
+    private void textBox24_TextChanged(object sender, EventArgs e)
+    {
+
+    }
+
+    private void label48_Click(object sender, EventArgs e)
+    {
+
+    }
+
+    private void textBox31_TextChanged(object sender, EventArgs e)
+    {
+
+    }
+
+    private void Admin_FormClosing(object sender, FormClosingEventArgs e)
+    {
+      Application.Exit();
+    }
+  }
 }
