@@ -9,3 +9,16 @@ D:\Study\Year-third\DatabaseManagementSystem\Practice\Project\QuanLyThueNha\Quan
 D:\Study\Year-third\DatabaseManagementSystem\Practice\Project\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.pdb
 D:\Study\Year-third\DatabaseManagementSystem\Practice\Project\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.Admin.resources
 D:\Study\Year-third\DatabaseManagementSystem\Practice\Project\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.User.resources
+D:\OneDrive - VNU-HCMUS\Nam 3\Database Management System\Đồ án\Giao diện\QuanLyThueBanNha\QuanLyThueNha\bin\Debug\QuanLyThueNha.exe.config
+D:\OneDrive - VNU-HCMUS\Nam 3\Database Management System\Đồ án\Giao diện\QuanLyThueBanNha\QuanLyThueNha\bin\Debug\QuanLyThueNha.exe
+D:\OneDrive - VNU-HCMUS\Nam 3\Database Management System\Đồ án\Giao diện\QuanLyThueBanNha\QuanLyThueNha\bin\Debug\QuanLyThueNha.pdb
+D:\OneDrive - VNU-HCMUS\Nam 3\Database Management System\Đồ án\Giao diện\QuanLyThueBanNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.csprojAssemblyReference.cache
+D:\OneDrive - VNU-HCMUS\Nam 3\Database Management System\Đồ án\Giao diện\QuanLyThueBanNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.Admin.resources
+D:\OneDrive - VNU-HCMUS\Nam 3\Database Management System\Đồ án\Giao diện\QuanLyThueBanNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.Properties.Resources.resources
+D:\OneDrive - VNU-HCMUS\Nam 3\Database Management System\Đồ án\Giao diện\QuanLyThueBanNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.User.resources
+D:\OneDrive - VNU-HCMUS\Nam 3\Database Management System\Đồ án\Giao diện\QuanLyThueBanNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.csproj.GenerateResource.cache
+D:\OneDrive - VNU-HCMUS\Nam 3\Database Management System\Đồ án\Giao diện\QuanLyThueBanNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.csproj.CoreCompileInputs.cache
+D:\OneDrive - VNU-HCMUS\Nam 3\Database Management System\Đồ án\Giao diện\QuanLyThueBanNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.exe
+D:\OneDrive - VNU-HCMUS\Nam 3\Database Management System\Đồ án\Giao diện\QuanLyThueBanNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.pdb
+D:\OneDrive - VNU-HCMUS\Nam 3\Database Management System\Đồ án\Giao diện\QuanLyThueBanNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.Dang_nhap.resources
+D:\OneDrive - VNU-HCMUS\Nam 3\Database Management System\Đồ án\Giao diện\QuanLyThueBanNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.Dang_ky.resources
