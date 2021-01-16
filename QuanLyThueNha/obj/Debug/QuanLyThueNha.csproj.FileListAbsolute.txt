@@ -1,0 +1,11 @@
+D:\Study\Year-third\DatabaseManagementSystem\Practice\Project\QuanLyThueNha\QuanLyThueNha\bin\Debug\QuanLyThueNha.exe.config
+D:\Study\Year-third\DatabaseManagementSystem\Practice\Project\QuanLyThueNha\QuanLyThueNha\bin\Debug\QuanLyThueNha.exe
+D:\Study\Year-third\DatabaseManagementSystem\Practice\Project\QuanLyThueNha\QuanLyThueNha\bin\Debug\QuanLyThueNha.pdb
+D:\Study\Year-third\DatabaseManagementSystem\Practice\Project\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.csprojAssemblyReference.cache
+D:\Study\Year-third\DatabaseManagementSystem\Practice\Project\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.Properties.Resources.resources
+D:\Study\Year-third\DatabaseManagementSystem\Practice\Project\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.csproj.GenerateResource.cache
+D:\Study\Year-third\DatabaseManagementSystem\Practice\Project\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.csproj.CoreCompileInputs.cache
+D:\Study\Year-third\DatabaseManagementSystem\Practice\Project\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.exe
+D:\Study\Year-third\DatabaseManagementSystem\Practice\Project\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.pdb
+D:\Study\Year-third\DatabaseManagementSystem\Practice\Project\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.Admin.resources
+D:\Study\Year-third\DatabaseManagementSystem\Practice\Project\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.User.resources
