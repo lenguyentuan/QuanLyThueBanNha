@@ -38,13 +38,11 @@ ALTER PROC sp_login (
 AS
 BEGIN
 	SET @userName = LOWER(@userName);
-	DECLARE @role INT = 1;
+	DECLARE @role INT = -1;
   SELECT @role = [UserRole] FROM [dbo].[TaiKhoan]
 	WHERE EXISTS(SELECT 1 FROM	[dbo].[TaiKhoan] WHERE [UserName] = @userName AND	[MatKhau] = @pw)
 	-- đăng nhập thất bại nếu role = -1
-	RETURN @role;
+	SELECT @role;
 END;
 GO
 
-SELECT * FROM [dbo].[TaiKhoan]
-EXEC [dbo].[sp_login]	 @userName = 'tuan25', @pw = 'Tuan12'
