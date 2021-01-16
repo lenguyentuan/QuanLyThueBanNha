@@ -16,7 +16,7 @@ namespace QuanLyThueNha
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ChiTietXemNha());
+            Application.Run(new Admin());
         }
     }
 }
